@@ -69,6 +69,6 @@ Please star this repository if you find ths useful
 
 
 ## Credits
-[https://github.com/casualsnek/linuxconio](https://github.com/casualsnek/linuxconio)
-[donarturo11](https://github.com/donarturo11)
+- [casualsnek](https://github.com/casualsnek/linuxconio)
+- [donarturo11](https://github.com/donarturo11/linuxconio-mod)
 
