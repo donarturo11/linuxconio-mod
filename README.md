@@ -24,8 +24,8 @@ Installation is done by copying "conio.h" file to location where compiler looks 
 On most systems it can be installed by running following commands in terminal emulator
 
 ```sh
-$ git clone https://github.com/casualsnek/linuxconio
-$ cd linuxconio
+$ git clone https://github.com/donarturo11/linuxconio-mod
+$ cd linuxconio-mod
 $ make
 ```
 
